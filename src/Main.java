@@ -69,7 +69,7 @@ public class Main {
         );
 
         public static final Map<Integer, String> correctAnswers = new HashMap<>();
-
+//
         static {
             correctAnswers.put(1, "b");
             correctAnswers.put(2, "c");
